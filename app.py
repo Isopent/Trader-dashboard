@@ -1,5 +1,5 @@
 """
-Trader Dashboard V5
+Trader Dashboard
 ====================
 Alpha Trader 戰情室 - Professional Trading Dashboard
 
