@@ -110,7 +110,7 @@ class AppConfig:
     
     # App metadata
     app_name: str = "Alpha Trader 戰情室"
-    version: str = "5.0.0"
+    version: str = "5.1.0"
     
     @classmethod
     def load_from_env(cls) -> "AppConfig":

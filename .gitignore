@@ -1,19 +1,38 @@
-# Python 快取
+# Python cache
 __pycache__/
 *.py[cod]
+*$py.class
+*.pyo
 
-# 資料與快取檔案
+# Data & cache files
 *.csv
 *.xlsx
 market_data_cache.csv
 
-# 虛擬環境
+# Virtual environments
 env/
 venv/
 .env
+.venv/
 
-# 測試快取
+# Test cache
 .pytest_cache/
 
-# 使用者隱私/設定檔
-# user_config.json
+# User settings (personal preferences)
+user_config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg

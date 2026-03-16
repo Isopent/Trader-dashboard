@@ -1,9 +1,8 @@
 {
-  "range_cross_asset": "5 Years",
+  "range_cross_asset": "1 Year",
   "range_volatility_structure": "6M",
   "range_financial_stress": "3Y",
   "range_reserve_scarcity": "5Y",
   "range_macro_US": "5Y",
-  "range_safe_havens_1": "3Y",
-  "range_macro_\ud83c\uddfa\ud83c\uddf8 US Fed": "1Y"
+  "range_safe_havens_1": "3Y"
 }
